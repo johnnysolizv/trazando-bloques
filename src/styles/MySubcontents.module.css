@@ -1,0 +1,9 @@
+.mySubcontents{
+    height: 180px;
+    width: 180px;
+    background-color: yellow;
+    display:inline-block;
+    margin: 13px;
+    padding: 4px;
+    margin-bottom: 15px;
+}
